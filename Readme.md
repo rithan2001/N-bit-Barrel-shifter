@@ -1,4 +1,4 @@
-# N Bit Barrel-shifter
+# N Bit Right-Barrel-shifter
 
 # Follow these steps.....
 Execute the command one by one
